@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **anything, I would be glad to help (if I could)**
 
-- 📫 How to reach me **swainsimran4@gmail.com**
+- 📫 You can reach at **swainsimran4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
