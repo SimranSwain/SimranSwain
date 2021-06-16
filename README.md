@@ -1,16 +1,15 @@
-<h1 align="center">Hi 👋, I'm Simran Swain</h1>
+<h1 align="center">Hello World!👋 I'm Simran Swain</h1>
 <h3 align="center">A CSE Student who loves exploring new fields and A passionate frontend developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simranswain&label=Profile%20views&color=0e75b6&style=flat" alt="simranswain" /> </p>
-
-<p align="left"> <a href="https://twitter.com/simranswain9" target="blank"><img src="https://img.shields.io/twitter/follow/simranswain9?logo=twitter&style=for-the-badge" alt="simranswain9" /></a> </p>
-<img aline="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/264642...">
 
 - 🔭 I’m currently **Computer Science Undergraduate**
 
 - 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **any interesting Projects**
+
+- 💬 Ask me about **anything, I would be glad to help (if I could)**
 
 - 📫 How to reach me **swainsimran4@gmail.com**
 
