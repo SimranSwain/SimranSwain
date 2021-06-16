@@ -2,6 +2,7 @@
 <h3 align="center">A CSE Student who loves exploring new fields and A passionate frontend developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simranswain&label=Profile%20views&color=0e75b6&style=flat" alt="simranswain" /> </p>
+<img align="right"alt="Coding"width="400"src="https://camo.githubusercontent.com/6607041227d81f650340ff070cc2843518acad359b57e5bb054a9fb7127aa041/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323634363432332f73637265656e73686f74732f353530373139362f636f6d70757465722e676966">
 
 - 🔭 I’m currently **Computer Science Undergraduate**
 
